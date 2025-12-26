@@ -1,0 +1,7 @@
+{
+  "name": "Rwanda Charity Eye Hospital",
+  "description": "A premium, modern healthcare website for Rwanda Charity Eye Hospital, focusing on trust, vision restoration, and community impact.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
